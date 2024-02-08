@@ -1,1 +1,1 @@
-ln -s bin/ls __ls__
+ln -sf "bin/ls" "__ls__"
